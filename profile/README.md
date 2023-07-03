@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraday-lab&label=Profile%20views&color=0e75b6&style=flat" alt="faraday-lab" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arescreativelab" target="blank"><img src="https://img.shields.io/twitter/follow/arescreativelab?logo=twitter&style=for-the-badge" alt="arescreativelab" /></a> </p>
+<p align="left"> <a href="https://twitter.com/areschatlab" target="blank"><img src="https://img.shields.io/twitter/follow/areschatlab?logo=twitter&style=for-the-badge" alt="areschatlab" /></a> </p>
 
 - 🔭 We're currently working on [AresChat](https://ares-chat-v2.vercel.app/)
 
